@@ -13,13 +13,3 @@ As aulas e projetos deste semestre focam no "Core" do desenvolvimento web modern
 *   **HTML5:** Semântica, acessibilidade e estruturação avançada.
 *   **CSS3:** Layouts com Flexbox, CSS Grid, animações e design responsivo (Mobile First).
 *   **JavaScript (ES6+):** Manipulação do DOM, eventos, Promises e consumo de APIs.
-
----
-
-## 🛠️ Como visualizar os projetos
-
-Para rodar os exercícios localmente, siga estes passos:
-
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com
